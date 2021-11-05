@@ -1,4 +1,4 @@
-echo "# ServiceNow_Production" >> README.md
+me timecho "# ServiceNow_Production" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
